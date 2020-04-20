@@ -1,3 +1,4 @@
+//This is supposed to act like a semaphore
 void setup() {
   // put your setup code here, to run once:
   pinMode(3, OUTPUT);
